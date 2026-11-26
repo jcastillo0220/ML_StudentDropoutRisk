@@ -1,0 +1,24 @@
+# Python environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Operating system
+.DS_Store
+
+# Local configuration
+.env
+requirements-macos.txt
+
+# Generated data and serialized models
+results/*.pkl
+results/full_dataset.csv
+results/*predictions.csv
+results/*missed_dropouts.csv
+
+# Executed notebook artifacts
+results/executed_notebooks/

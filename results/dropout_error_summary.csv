@@ -1,0 +1,7 @@
+Model,Version,True Positives,False Negatives,False Positives,True Negatives
+Logistic Regression,baseline,218,66,57,544
+Logistic Regression,tuned,194,90,35,566
+Random Forest,baseline,211,73,50,551
+Random Forest,tuned,198,86,42,559
+XGBoost,baseline,211,73,53,548
+XGBoost,tuned,206,78,57,544
